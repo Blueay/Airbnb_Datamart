@@ -15,7 +15,7 @@ The system should capture and relate all essential components of the Airbnb ecos
 accuracy, and efficient query performance.
 
 
-# 1.2 Roles (User Groups)
+## 1.2 Roles (User Groups)
 Guest: Books accommodations, leaves reviews, manages personal profile, sends messages
 Host: Lists accommodations, sets availability and prices, responds to guest inquiries
 Administrator: Manages users and listings, reviews complaints, generates platform reports
@@ -26,6 +26,31 @@ Administrator: Manages users and listings, reviews complaints, generates platfor
 
 
 ![image](https://github.com/user-attachments/assets/12288ebe-cf3a-4a12-8e50-72fe8782fc89)
+
+
+## 1.5 Transition to Data Modeling
+
+The requirements above form the backbone of the system logic. Each identified action and function corresponds directly to an entity, attribute, or relationship in the database. To proceed from abstract functionality to concrete structure, we now translate the business logic into a visual entity-relationship model.
+
+This transition ensures that:
+
+- All data elements are represented
+
+- Relationships (1:1, 1:N, N:M) are normalized
+
+- Each user role's permissions are clearly mapped via access-level logic
+
+- This conceptual model supports later SQL table design and optimization.
+
+
+# 2. Entity-Relationship Model (ER Model)
+
+This section introduces the core conceptual model, based on standard UML notation and minimal structure required for functional representation. The model reflects real-world relationships and serves as a blueprint for later SQL development.
+
+![image](https://github.com/user-attachments/assets/f68e3ca0-c1ad-45c9-945e-f64c77801b97)
+
+
+
 
 
 
