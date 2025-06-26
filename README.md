@@ -20,9 +20,6 @@ accuracy, and efficient query performance.
 Guest: Books accommodations, leaves reviews, manages personal profile, sends messages
 Host: List<img width="689" alt="1_3_Roles" src="https://github.com/user-attachments/assets/791e61be-e67e-48dc-8f0e-e43765ac91f5" />
 <img width="689" alt="1_3_Roles" src="https://github.com/user-attachments/assets/791e61be-e67e-48dc-8f0e-e43765ac91f5" />
-s accommodations, sets availability and prices, responds to guest inquiries
-Administrator: Manages users and listings, reviews complaints, generates platform reports
 
-![image](https://github.com/user-attachments/assets/f185435f-d1fa-418a-9f0e-2dfbaef5bf42)
 ![image](https://github.com/user-attachments/assets/f185435f-d1fa-418a-9f0e-2dfbaef5bf42)
 
