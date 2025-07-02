@@ -69,10 +69,5 @@ SELECT * FROM users;
 
 ---
 
-## F. License
 
-MIT License
-
----
-
-Made with ❤️ by Aylin
+Made with ❤️ by BlueAy
